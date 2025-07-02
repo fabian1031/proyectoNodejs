@@ -14,3 +14,5 @@
 * npm i morgan: Es un middleware de Express y registra las solicitudes http.
 
 2. sobre la misma linea de mi package.json voy a crear una carpeta que sera nuestro "src" --> dentro creo tres archivos index, conexion y servidor.
+
+- npm run dev
